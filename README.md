@@ -243,19 +243,13 @@ We are using plain `CSS` for this project and you can find that in the `docs/css
 <tr>
 <!-- Start of column-1 -->
 <td>
-  <a href="https://cpro-portfolio-html.netlify.app/">
+  <a href="https://portfoliohelp.netlify.app/">
     <img src="https://user-images.githubusercontent.com/62628408/150613011-b78a7f5a-0af1-4312-aab0-0022e7258693.png" width="100px"> <br/>
     <sub>Example 1</sub>
   </a>
 </td>
 <!-- End of column-1 -->
  <!-- Start of column-2 -->
-<td>
-  <a href="https://cpro-portfolio-html.netlify.app/">
-    <img src="https://user-images.githubusercontent.com/62628408/150613011-b78a7f5a-0af1-4312-aab0-0022e7258693.png" width="100px"> <br/>
-    <sub>Example 2</sub>
-  </a>
-</td>
 </tr>
 </table>
 
